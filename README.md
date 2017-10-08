@@ -1,2 +1,3 @@
 # hello-world 
-first repository !
+first repository for a new idea!
+Blah Blah
